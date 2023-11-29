@@ -1,0 +1,113 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.png",
+			"width": 512,
+			"height": 512
+		},
+		{
+			"name": "background2",
+			"path": "./assets/images/background2.png",
+			"width": 512,
+			"height": 512
+		},
+		{
+			"name": "grass",
+			"path": "./assets/images/grass.png",
+			"width": 70,
+			"height": 70
+		},
+		{
+			"name": "sprites",
+			"path": "./assets/images/sprites.png",
+			"width": 1449,
+			"height": 968
+		},
+		{
+			"name": "wood",
+			"path": "./assets/images/wood.png",
+			"width": 512,
+			"height": 512
+		},
+		{
+			"name": "starPlaceHolder",
+			"path": "./assets/images/star-placeholder.png",
+			"width": 558,
+			"height": 210
+		},
+		{
+			"name" : "star",
+			"path": "./assets/images/star.png",
+			"width": 130,
+			"height": 120
+		},
+		{
+			"name": "glass",
+			"path": "./assets/images/glass.png",
+			"width": 512,
+			"height": 512
+		}
+	],
+	"fonts": [
+		{
+			"name": "Joystix",
+			"path": "./assets/fonts/Joystix.ttf"
+		},
+		{
+			"name": "AngryBirds",
+			"path": "./assets/fonts/AngryBirds.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "music",
+			"path": "./assets/sounds/music.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "bounce",
+			"path": "./assets/sounds/bounce.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "break1",
+			"path": "./assets/sounds/break1.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "break2",
+			"path": "./assets/sounds/break2.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "break3",
+			"path": "./assets/sounds/break3.mp3",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "break4",
+			"path": "./assets/sounds/break4.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "break5",
+			"path": "./assets/sounds/break5.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "kill",
+			"path": "./assets/sounds/kill.wav",
+			"size": 5,
+			"volume": 0.1
+		}
+	]
+}
